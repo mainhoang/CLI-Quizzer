@@ -1,0 +1,28 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "create custom flashcards on the fly & quiz yourself",
+  "main": "basicCards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mainhoang/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "node.js",
+    "inquirer.js",
+    "cloze",
+    "flashcards"
+  ],
+  "author": "Mai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mainhoang/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/mainhoang/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
